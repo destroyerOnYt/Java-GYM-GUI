@@ -1,0 +1,32 @@
+----- Member Info -----
+ID: 1
+Name: kajsnkjda
+Location: jaksbdand
+Phone: akjsndiapn
+Email: ksajdnajk
+Membership Start Date: 1/Jan/1970
+Plan: Basic
+Price: 6500
+Attendance: 0
+Loyalty Points: 0.0
+Active Status: false
+Full Payment: N/A
+Discount Amount: N/A
+Net Amount Paid: N/A
+
+----- Member Info -----
+ID: 2
+Name: akjsndjak
+Location: aksjndajd
+Phone: lkskjdalkdm
+Email: akjsndand
+Membership Start Date: 1/Jan/1970
+Plan: Premium
+Price: 50000
+Attendance: 0
+Loyalty Points: 0.0
+Active Status: false
+Full Payment: false
+Discount Amount: 0.0
+Net Amount Paid: 0.0
+
